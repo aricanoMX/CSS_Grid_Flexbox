@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-color: rgba(220, 60, 77, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #fff;
+  height: 500px;
+  width: 450px;
+  font-family: "Noto Sans", sans-serif;
+  border-radius: 5px;
+  box-shadow: 10px 10px 15px rgba(38, 35, 53, 0.5);
+  display: grid;
+  grid-template: repeat(5, 1fr) / repeat(4, 1fr);
+}
+p {
+  margin: 0;
+  color: rgba(128, 128, 128, 0.603);
+  font-size: 17px;
+  font-weight: 700;
+}
+.fondo {
+  background-color: rgba(36, 27, 47, 0.5);
+}
+/* ___________________________________________ */
+/* ___________________________________________ */
+.header__container {
+  grid-template: 1fr / 1fr 3fr;
+  display: grid;
+  grid-column: 1/5;
+  grid-row: 1/2;
+}
+.img__container {
+  place-self: center;
+  display: grid;
+  height: 60px;
+  width: 60px;
+  grid-column: 1/2;
+  grid-row: 1/2;
+  border-radius: 50%;
+}
+.img__container img {
+  place-self: center;
+  height: 55px;
+  width: auto;
+}
+.header__title {
+  grid-column: 2/5;
+  grid-row: 1/2;
+  padding: 0 20px;
+  box-sizing: border-box;
+  /* grid-template: 1fr / repeat(4, 1fr); */
+}
+.header__title h1 {
+  margin-bottom: 0;
+}
+.header__title p {
+  margin: 10px 0;
+}
+/* ___________________________________________ */
+/* ___________________________________________ */
+.image__container {
+  grid-template: 3fr / 1fr;
+  display: grid;
+  grid-row: 2/5;
+  grid-column: 1/5;
+}
+.img-cont {
+  display: grid;
+  grid-column: 1/5;
+  grid-row: 1/4;
+  background-color: ;
+}
+.img-cont img {
+  place-self: center;
+  height: 95%;
+  width: auto;
+}
+.img-explain {
+  grid-column: 1/5;
+  grid-row: 4/5;
+}
+.img-explain p {
+  margin: 0;
+  padding: 20px;
+}
+/* ___________________________________________ */
+/* ___________________________________________ */
+.footer__container {
+  grid-row: 5/6;
+  grid-column: 1/5;
+  grid-template: 1fr / repeat(2, 1fr);
+  display: grid;
+  background-color: #fff;
+}
+.footer__left,
+.footer__right {
+  place-self: center;
+}
+.footer__left a {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgba(82, 53, 188, 1);
+  margin: 0 10px;
+  margin-right: ;
+}
+
+.footer__right img {
+  margin-left: 50px;
+  height: 24px;
+}
