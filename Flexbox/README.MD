@@ -10,4 +10,4 @@
 
 - _Unicamente presiona el link que para el método de tu elecicón te dejo abajo_
 
-[Ver Proyecto](https://aricanomx.github.io/Retos_PlatziMaster/CSS%20Grid%20+%20Flexbox/Flexbox/)
+[Ver Proyecto](https://aricanomx.github.io/CSS_Grid_Flexbox/Flexbox/)
