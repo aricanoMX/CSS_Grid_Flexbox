@@ -10,5 +10,5 @@
 
 - _Unicamente presiona el link para el método de tu elección_
 
-[Ver Proyecto](https://github.com/aricanoMX/aricanomx.github.com/tree/master/Retos_PlatziMaster/CSS%20Grid%20%2B%20Flexbox)
+[Ver Proyecto](https://aricanomx.github.io/CSS_Grid_Flexbox/)
 
