@@ -11,4 +11,4 @@
 
 - _Unicamente presiona el link que te dejo abajo_
 
-[Ver Proyecto](https://aricanomx.github.io/Retos_PlatziMaster/CSS%20Grid%20+%20Flexbox/Grid/)
+[Ver Proyecto](https://aricanomx.github.io/CSS_Grid_Flexbox/Grid/)
